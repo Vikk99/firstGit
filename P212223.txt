@@ -271,3 +271,5 @@ update emp1 set ename = 'C' where eid = 3
 
 drop trigger [tr_Inserted]
 
+this is my first Git edit
+select * from emp1
