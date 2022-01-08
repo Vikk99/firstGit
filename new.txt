@@ -1,0 +1,13 @@
+1.View
+--2.SP
+--3.Trigger
+--4.Index
+--5.Cursors
+
+--1.View
+--It is a virtual table.
+--It is orginal copy of table.
+--In view we can use only one SELECT ststement.
+--If anything is updated in a table that will be automatically updated inside the view.
+
+this is my 2nd git....
