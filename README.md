@@ -1,2 +1,0 @@
-# firstGit
-starting Git today
