@@ -1,0 +1,15 @@
+A. What is reverse-i-search in Linux terminal?
+Ans= We use this command in order to search command in history. 
+This command searches for the querry you provided in backward direction in history.
+
+B.How do you list out the hidden directories using Linux command line tool?
+Ans= We use (ls -a) or (ls -al) command to see hidden files.
+
+C.How comfortable are you with using Linux-based OS like Ubuntu,Centos,etc?
+Ans= Yes Iam comfortable.
+I have used Ubuntu OS but not much so I'll rate myself 2 out of 5!
+
+D. Have you ever used servers to host any web applications in the past? If yes, what service did you set up
+(Like- Appache/Ngenix/FTP/SMTP,etc)
+Ans= NO, I haven't used any of this. 
+But I do have a knowledge of AWS EC2 instance.
